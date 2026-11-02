@@ -1,0 +1,6 @@
+{"id": "q1", "question": "一线城市出差住宿的标准是多少？", "sources": ["差旅与报销制度.md"], "must_include": ["600"], "must_not_include": [], "expected": "一线城市每晚上限 600 元。", "should_answer": true}
+{"id": "q2", "question": "报销单提交后多久能到账？", "sources": ["差旅与报销制度.md"], "must_include": ["5个工作日"], "must_not_include": [], "expected": "财务每周三集中审核，审核通过后 5 个工作日内到账。", "should_answer": true}
+{"id": "q3", "question": "年假天数是怎么规定的？", "sources": ["考勤与请假制度.md"], "must_include": ["5天", "10天", "15天"], "must_not_include": [], "expected": "满 1 年 5 天，满 3 年 10 天，满 5 年 15 天。", "should_answer": true}
+{"id": "q4", "question": "员工离职当天账号怎么处理？", "sources": ["IT设备与账号管理规范.md"], "must_include": ["回收", "禁用"], "must_not_include": [], "expected": "离职当日由 IT 回收账号并禁用。", "should_answer": true}
+{"id": "q5", "question": "加班后的调休有效期是多久？", "sources": ["考勤与请假制度.md"], "must_include": ["6个月"], "must_not_include": [], "expected": "调休有效期为 6 个月。", "should_answer": true}
+{"id": "q6", "question": "公司年会一般在几月举办？", "sources": [], "must_include": [], "must_not_include": ["每年1月", "每年12月"], "expected": "资料中没有提到年会安排，应回答无法回答。", "should_answer": false}

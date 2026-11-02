@@ -1,0 +1,34 @@
+{"id": "c1", "question": "一线城市出差住宿标准是多少？", "sources": ["差旅与报销制度.md"], "must_include": ["600"], "must_not_include": [], "expected": "一线城市每晚上限 600 元。", "should_answer": true}
+{"id": "c2", "question": "报销单提交后多久到账？", "sources": ["差旅与报销制度.md"], "must_include": ["5个工作日"], "must_not_include": [], "expected": "审核通过后 5 个工作日内到账。", "should_answer": true}
+{"id": "c3", "question": "年假天数怎么规定？", "sources": ["考勤与请假制度.md"], "must_include": ["5天", "10天", "15天"], "must_not_include": [], "expected": "满 1 年 5 天，满 3 年 10 天，满 5 年 15 天。", "should_answer": true}
+{"id": "c4", "question": "离职当天账号怎么处理？", "sources": ["IT设备与账号管理规范.md"], "must_include": ["回收", "禁用"], "must_not_include": [], "expected": "离职当日由 IT 回收账号并禁用。", "should_answer": true}
+{"id": "c5", "question": "加班后的调休有效期是多久？", "sources": ["加班与调休制度.md"], "must_include": ["6个月"], "must_not_include": [], "expected": "调休有效期为 6 个月。", "should_answer": true}
+{"id": "c6", "question": "开发岗位的电脑配置是什么？", "sources": ["IT设备与账号管理规范.md"], "must_include": ["32G"], "must_not_include": [], "expected": "开发岗位标配 32G 内存笔记本。", "should_answer": true}
+{"id": "c7", "question": "访客网络的临时账号有效期多久？", "sources": ["门禁与访客管理.md", "IT设备与账号管理规范.md"], "must_include": ["24小时"], "must_not_include": [], "expected": "有效期 24 小时。", "should_answer": true}
+{"id": "c8", "question": "密码多久必须更换？", "sources": ["IT设备与账号管理规范.md"], "must_include": ["90天"], "must_not_include": [], "expected": "每 90 天强制更换。", "should_answer": true}
+{"id": "c9", "question": "内推奖金是多少？", "sources": ["招聘与内推管理.md"], "must_include": ["5000"], "must_not_include": [], "expected": "内推奖金 5000 元，入职发一半、转正发一半。", "should_answer": true}
+{"id": "c10", "question": "试用期多长？", "sources": ["招聘与内推管理.md"], "must_include": ["3个月"], "must_not_include": [], "expected": "试用期 3 个月，最长可延至 6 个月。", "should_answer": true}
+{"id": "c11", "question": "驻场补贴每天多少？", "sources": ["外派与驻场管理办法.md"], "must_include": ["200"], "must_not_include": [], "expected": "每天 200 元。", "should_answer": true}
+{"id": "c12", "question": "消防演练多久一次？", "sources": ["应急与消防管理.md"], "must_include": ["每半年"], "must_not_include": [], "expected": "每半年组织一次消防演练。", "should_answer": true}
+{"id": "c13", "question": "参加异地培训时，一线城市住宿上限是多少？", "sources": ["培训管理制度.md"], "must_include": ["500"], "must_not_include": [], "expected": "培训住宿一线城市每晚上限 500 元。", "should_answer": true}
+{"id": "c14", "question": "外派到境内一线城市，住宿上限是多少？", "sources": ["外派与驻场管理办法.md"], "must_include": ["800"], "must_not_include": [], "expected": "外派境内一线城市每晚上限 800 元。", "should_answer": true}
+{"id": "c15", "question": "二线城市出差住宿上限是多少？", "sources": ["差旅与报销制度.md"], "must_include": ["400"], "must_not_include": [], "expected": "二线城市每晚上限 400 元。", "should_answer": true}
+{"id": "c16", "question": "培训费用超过多少需要签服务期协议？", "sources": ["培训管理制度.md"], "must_include": ["1万元", "12个月"], "must_not_include": [], "expected": "超过 1 万元需签服务期，不少于 12 个月。", "should_answer": true}
+{"id": "c17", "question": "单笔采购超过多少需要公开招标？", "sources": ["采购与供应商管理.md"], "must_include": ["10万元"], "must_not_include": [], "expected": "10 万元以上需公开招标。", "should_answer": true}
+{"id": "c18", "question": "合同用印需要哪个部门统一盖章？", "sources": ["合同与用印管理.md"], "must_include": ["行政"], "must_not_include": [], "expected": "由行政统一盖章。", "should_answer": true}
+{"id": "c19", "question": "居家办公每周最多几天？", "sources": ["远程与居家办公.md"], "must_include": ["2天"], "must_not_include": [], "expected": "每周不超过 2 天。", "should_answer": true}
+{"id": "c20", "question": "业务招待人均标准是多少？", "sources": ["费用报销补充细则.md"], "must_include": ["300"], "must_not_include": [], "expected": "人均不超过 300 元。", "should_answer": true}
+{"id": "c21", "question": "住二线城市一晚 500 元，能报销多少？", "sources": ["差旅与报销制度.md"], "must_include": ["400", "100"], "must_not_include": [], "expected": "上限 400 元，超出 100 元由个人承担。", "should_answer": true}
+{"id": "c22", "question": "机票应该买什么舱位？", "sources": ["差旅与报销制度.md"], "must_include": ["经济舱"], "must_not_include": [], "expected": "飞行需选择经济舱。", "should_answer": true}
+{"id": "c23", "question": "市内交通单次报销上限是多少？", "sources": ["差旅与报销制度.md"], "must_include": ["100"], "must_not_include": [], "expected": "单次不超过 100 元。", "should_answer": true}
+{"id": "c24", "question": "发票抬头开成个人能报销吗？", "sources": ["差旅与报销制度.md"], "must_include": ["公司全称"], "must_not_include": [], "expected": "不能，必须为公司全称。", "should_answer": true}
+{"id": "c25", "question": "培训结束后多久要提交学习总结？", "sources": ["培训管理制度.md"], "must_include": ["10个工作日"], "must_not_include": [], "expected": "培训结束后 10 个工作日内提交。", "should_answer": true}
+{"id": "c26", "question": "合同签署后多久完成归档？", "sources": ["合同与用印管理.md"], "must_include": ["30日"], "must_not_include": [], "expected": "签署后 30 日内完成归档。", "should_answer": true}
+{"id": "c27", "question": "员工离职时，账号和固定资产分别怎么处理？", "sources": ["IT设备与账号管理规范.md", "办公资产与用品管理.md"], "must_include": ["禁用", "归还"], "must_not_include": [], "expected": "账号由 IT 回收并禁用；固定资产需归还。", "should_answer": true}
+{"id": "c28", "question": "出差住宿和培训住宿的一线城市标准有什么不同？", "sources": ["差旅与报销制度.md", "培训管理制度.md"], "must_include": ["600", "500"], "must_not_include": [], "expected": "差旅 600 元/晚，培训 500 元/晚。", "should_answer": true}
+{"id": "c29", "question": "加班和请假分别要提前多久申请？", "sources": ["加班与调休制度.md", "考勤与请假制度.md"], "must_include": ["提前", "登记"], "must_not_include": [], "expected": "年假提前 3 个工作日，加班需提前登记。", "should_answer": true}
+{"id": "c30", "question": "哪些情况会被解除劳动合同？", "sources": ["员工纪律与奖惩.md"], "must_include": [["严重违纪", "解除劳动合同"]], "must_not_include": [], "expected": "泄露机密、伪造报销凭证等严重违纪可解除。", "should_answer": true}
+{"id": "c31", "question": "公司年会一般在几月举办？", "sources": [], "must_include": [], "must_not_include": ["每年1月"], "expected": "资料未提及，应拒绝回答。", "should_answer": false}
+{"id": "c32", "question": "员工持股计划怎么参与？", "sources": [], "must_include": [], "must_not_include": ["持股"], "expected": "资料未提及，应拒绝回答。", "should_answer": false}
+{"id": "c33", "question": "公司有几个食堂？", "sources": [], "must_include": [], "must_not_include": ["食堂"], "expected": "资料未提及，应拒绝回答。", "should_answer": false}
+{"id": "c34", "question": "年会在哪个酒店举办？", "sources": [], "must_include": [], "must_not_include": ["酒店"], "expected": "资料未提及，应拒绝回答。", "should_answer": false}

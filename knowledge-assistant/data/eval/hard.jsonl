@@ -1,0 +1,10 @@
+{"id": "h1", "question": "住二线城市时住宿费超过了标准，超出的部分谁承担？", "sources": ["差旅与报销制度.md"], "must_include": ["个人承担"], "must_not_include": [], "expected": "超标部分由个人承担，特殊情况需提前获得部门负责人书面审批。", "should_answer": true}
+{"id": "h2", "question": "报销需要提交哪些材料？", "sources": ["差旅与报销制度.md"], "must_include": ["发票原件", "查验"], "must_not_include": [], "expected": "OA 提交报销单、上传发票原件照片；电子发票需提供查验结果截图。", "should_answer": true}
+{"id": "h3", "question": "一个月迟到超过三次会有什么后果？", "sources": ["考勤与请假制度.md"], "must_include": ["绩效考核"], "must_not_include": [], "expected": "影响当季绩效考核。", "should_answer": true}
+{"id": "h4", "question": "访客网络的临时账号能用多久？", "sources": ["IT设备与账号管理规范.md"], "must_include": ["24小时"], "must_not_include": [], "expected": "有效期 24 小时。", "should_answer": true}
+{"id": "h5", "question": "开发岗位和其他岗位的电脑配置有什么差别？", "sources": ["IT设备与账号管理规范.md"], "must_include": ["32G", "16G"], "must_not_include": [], "expected": "开发岗标配 32G 内存笔记本，其他岗位 16G。", "should_answer": true}
+{"id": "h6", "question": "登录密码多久必须更换一次？", "sources": ["IT设备与账号管理规范.md"], "must_include": ["90天"], "must_not_include": [], "expected": "每 90 天强制更换，长度不少于 12 位。", "should_answer": true}
+{"id": "h7", "question": "请年假要提前几天在系统里申请？", "sources": ["考勤与请假制度.md"], "must_include": ["3个工作日"], "must_not_include": [], "expected": "提前 3 个工作日。", "should_answer": true}
+{"id": "h8", "question": "出差住二线城市，一晚 500 元，能全部报销吗？", "sources": ["差旅与报销制度.md"], "must_include": ["400", "100"], "must_not_include": [], "expected": "不能，二线上限 400 元，超出 100 元由个人承担（除非事先书面审批）。", "should_answer": true}
+{"id": "h9", "question": "发票抬头开成个人名字还能报销吗？", "sources": ["差旅与报销制度.md"], "must_include": ["公司全称"], "must_not_include": ["个人抬头可以报销"], "expected": "不能，发票抬头必须为公司全称。", "should_answer": true}
+{"id": "h10", "question": "员工离职时，公司配发的笔记本电脑需要怎么处理？", "sources": [], "must_include": [], "must_not_include": ["需归还", "归还公司"], "expected": "资料只规定了账号回收与禁用，没有说明设备回收流程，应回答无法回答。", "should_answer": false}
