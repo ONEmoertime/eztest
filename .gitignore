@@ -1,0 +1,9 @@
+.env
+.index/
+.tmp/
+.venv/
+__pycache__/
+*.pyc
+data/raw/*
+!data/raw/*.md
+eval/results.json
